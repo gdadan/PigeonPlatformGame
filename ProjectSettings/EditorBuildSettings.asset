@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: ee923a4024a455549860beb9e0dc9dc7
+  - enabled: 1
+    path: Assets/Scenes/ToonScene.unity
+    guid: fc0016508b3f11c42b00f6528316c1bd
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TutorialGrassScene.unity
+    guid: 7b815994730da4e46b45b7a04ba3eee8
+  - enabled: 1
+    path: Assets/Scenes/StorageScene.unity
+    guid: f71608c6d0a8d4545a5636e102402789
+  - enabled: 1
+    path: Assets/Scenes/MuseumScene.unity
+    guid: fa85a825a948feb4c85002f60ab09795
+  - enabled: 1
+    path: Assets/Scenes/ParkingAreaScene.unity
+    guid: 83bfe1db58168ef478e24ae996c007a4
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: dfa335b86349ea44585e7bb9ff45b2be
+  m_configObjects: {}

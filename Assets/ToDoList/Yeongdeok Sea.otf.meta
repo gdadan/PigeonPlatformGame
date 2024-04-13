@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d7be93b811f9bfd4cae54b0a3a3524a3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Yeongdeok Sea
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5348c184923719b48b93009922377830, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
